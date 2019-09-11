@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: "Ancient Mediterranean Complexities"
+title: "Complex Ancient Mediterranean"
 subtitle: "This is a test page for our website"
 email: petra.hermankova@cas.au.dk
 name: Petra Hermankova
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "/cam-au" # the subpath of your site, e.g. /blog/
 url: "http://cam-au.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.png"
+cover: "/assets/Social_Network_Analysis_Visualization.png" #Martin Grandjean [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], https://upload.wikimedia.org/wikipedia/commons/9/9b/Social_Network_Analysis_Visualization.png
 logo: "/assets/logo.png"
 
 # Build settings
