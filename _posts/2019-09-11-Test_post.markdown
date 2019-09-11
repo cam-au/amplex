@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Test post"
+date:   2019-09-11 12:00:00
+author: Petra
+categories: Posts
+---
+
+Hello, folks!
+
+This is a test post.
+
+**Stay tuned for more.**

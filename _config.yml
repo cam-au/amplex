@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: "Petrified Voices"
-subtitle: "Petra's research on digital & quantitative epigraphy"
-email: petra.janouchova@gmail.com
-name: Petra Janouchova
+title: "Ancient Mediterranean Complexities"
+subtitle: "This is a test page for our website"
+email: petra.hermankova@cas.au.dk
+name: Petra Hermankova
 description: >
-  Petra's personal research on why people created thousands messages written into stone and what can we learn from them
+  Test page for our research group. It needs to be populated with texts.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/petrifiedvoices" # the subpath of your site, e.g. /blog/
-url: "http://petrajanouchova.github.io" # the base hostname & protocol for your site
+baseurl: "/cam-au" # the subpath of your site, e.g. /blog/
+url: "http://cam-au.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -70,24 +70,24 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: pettulda
-    url: https://twitter.com/pettulda
-    desc: Follow me on Twitter
-    share: true
-
   - name: GitHub
     icon: github
-    username: petrajanouchova
-    url: https://github.com/petrajanouchova
+    username: cam-au
+    url: https://github.com/cam-au
     desc: Fork me on GitHub
     share: false
 
+  - name: Twitter
+    icon: twitter
+    username: 
+    url: 
+    desc: Follow me on Twitter
+    share: true
+
   - name: LinkedIn
     icon: linkedin
-    username: Petra Janouchova
-    url: https://linkedin.com/in/petra-janouchova/
+    username: 
+    url: 
     desc: Connect with me on LinkedIn
     share: true
 
