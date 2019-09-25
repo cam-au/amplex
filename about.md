@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About us
-permalink: /aboutus/
+title: Social Media
+permalink: /social/
 ---
 
 <img src="{{ site.baseurl }}/assets/Aarhus_start.jpg" title="First day in the office" class="profile">
