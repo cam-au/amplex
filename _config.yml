@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "/sdam-au" # the subpath of your site, e.g. /blog/
 url: "http://sdam-au.github.io" # the base hostname & protocol for your site
-cover: "/assets/Social_Network_Analysis_Visualization.png" #Martin Grandjean [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], https://upload.wikimedia.org/wikipedia/commons/9/9b/Social_Network_Analysis_Visualization.png
+cover: "/assets/Mediterranean_Andros.jpg" #Petra Janouchova, 2013, Andros, Greece, taken during fieldwork
 logo: "/assets/logo.png"
 
 # Build settings
