@@ -27,6 +27,6 @@ But honestly, how many people, unless they were burnt really badly in their past
 Although it may seem pesimistic, there is no universal solution that would fit all projects. But maybe a mere thought of the inescapable end of your project is the key itself. Building the infrastructure responsibly with the end date in mind may open the door to future projects that won't have to reinvent the wheel and will build upon your work.
 
 What is your experience with building the infrastructure for a research project? 
-Please, reach out to me (petra.hermankova@cas.au.dk or @pettulda on Twitter) if you would like to ponder about the research lifecycle and our mutual building efforts.
+Please, reach out to me (**petra.hermankova@cas.au.dk** or <a href="https://twitter.com/pettulda">@pettulda</a> on Twitter!) if you would like to ponder about the research lifecycle and our mutual building efforts.
 
 Or simply **stay tuned for more**!
