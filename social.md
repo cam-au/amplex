@@ -19,6 +19,11 @@ You can follow me either on [Twitter](https://twitter.com/pettulda), [Github](ht
 </div>
 
 ---
+I am also testing placing here our SDAM Outlook calendar and I am really curious if it works.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=5sf1q0vh1mfp84e1dd1anq2umurf2idq%40import.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+---
 
 #### The technology behind the scene:
 
