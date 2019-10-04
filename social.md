@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Media
+title: Events
 permalink: /social/
 ---
 
@@ -8,21 +8,18 @@ permalink: /social/
 
 **Hello, world!**
 
-This page needs to be populated with text.
+---
+Hhis is a public SDAM calendar where you can find our events, public meetings and social activities.
 
-We can even populate it with our social media, once we decide which ones to use. In the meantime, I am using my own as an example.
+<iframe src="https://calendar.google.com/calendar/embed?src=5sf1q0vh1mfp84e1dd1anq2umurf2idq%40import.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="600" height="400" frameborder="0" scrolling="yes"></iframe>
 
-You can follow me either on [Twitter](https://twitter.com/pettulda), [Github](https://github.com/petrajanouchova), via [ORCID](https://orcid.org/0000-0002-6349-0540) or [my project on OSF](https://osf.io/fjnw5/).
+--------
+
+You can follow us either on [Twitter](https://twitter.com/pettulda), [Github](https://github.com/petrajanouchova), via [ORCID](https://orcid.org/0000-0002-6349-0540) or [my project on OSF](https://osf.io/fjnw5/).
 
 <div align="center">
-<a class="twitter-timeline" data-lang="en" data-width="300" data-height="800" data-theme="light" data-link-color="#E81C4F" href="https://twitter.com/pettulda?ref_src=twsrc%5Etfw">Tweets by pettulda</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="en" data-width="400" data-height="500" data-theme="light" data-link-color="#E81C4F" href="https://twitter.com/pettulda?ref_src=twsrc%5Etfw">Tweets by pettulda</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-
----
-I am also testing placing here our SDAM Outlook calendar and I am really curious if it works.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=5sf1q0vh1mfp84e1dd1anq2umurf2idq%40import.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="400" height="300" frameborder="0" scrolling="yes"></iframe>
-
 ---
 
 #### The technology behind the scene:
