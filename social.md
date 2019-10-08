@@ -18,10 +18,10 @@ This is a public SDAM calendar where you can find our events, public meetings an
 
 #### Social Media
 
-You can follow us either on [Twitter](https://twitter.com/pettulda).
+You can follow us either on [Twitter](https://twitter.com/sdam_au).
 
 <div align="center">
-<a class="twitter-timeline" data-lang="en" data-width="600" data-height="500" data-theme="light" data-link-color="#E81C4F" href="https://twitter.com/pettulda?ref_src=twsrc%5Etfw">Tweets by pettulda</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="800" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/sdam_au?ref_src=twsrc%5Etfw">Tweets by sdam_au</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 ---
 
