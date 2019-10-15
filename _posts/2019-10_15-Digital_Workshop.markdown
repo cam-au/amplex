@@ -4,6 +4,10 @@ title:  "Workshop od Digital Approaches"
 date:   2019-10-15 12:00:00
 author: Petra
 categories: Events
+
+header:
+    image_fullwidth: workshop_program.png
+    caption: "30 Oct 2019 Workshop program" 
 ---
 
 Hello, dear digital enthousiast!
