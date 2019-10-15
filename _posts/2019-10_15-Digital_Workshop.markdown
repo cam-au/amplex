@@ -19,4 +19,3 @@ Please, contact me if you need more details (**petra.hermankova@cas.au.dk** or <
 
 ![alt text](./workshop_program.png "Workshop 30 Oct 2019 Program")
 
----
