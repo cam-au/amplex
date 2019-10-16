@@ -16,8 +16,8 @@ The full program with links to our speakers can be accessed via <a href="http://
 
 Please, contact me if you need more details (**petra.hermankova@cas.au.dk** or <a href="https://twitter.com/pettulda">@pettulda</a> on Twitter!).
 
-<p align="center">
-  <img src="https://github.com/sdam-au/sdam-au/blob/master/assets/workshop_program.png" width="250"/>
-</p>
+
+<a align="center" class='image-link' href='{{site.baseurl}}/assets/workshop_program.png' data-lightbox='Gallery-1' data-title='30 Oct 2019 Workshop program'><img class='image' src='{{site.baseurl}}/assets/workshop_program.png'>30 Oct 2019 Workshop program</a>
+
 
 
