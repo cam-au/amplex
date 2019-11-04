@@ -71,7 +71,7 @@ Windows operating system. First the package is constructed as a tarball
 file with the command line and by typing `R CMD build`. Then the `R CMD
 check` performs different types of tests on this file based on pass/fail
 results where “fail” involves errors, warnings, and notes. The option
-`–as-cran` applies the most strict rules on the package and allows a
+`--as-cran` applies the most strict rules on the package and allows a
 successful submission for a publication on the CRAN repository whenever
 there is any fail.
 
