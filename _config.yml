@@ -11,8 +11,8 @@ exclude:
 # Site settings
 title: "Social Dynamics in the Ancient Mediterranean"
 subtitle: "Research group based at Aarhus University"
-email: petra.hermankova@cas.au.dk
-name: Petra Hermankova
+email: sdam.cas@list.au.dk
+admin: Petra Hermankova
 description: >
   Research group in the social complexity and dynamics of the Ancient Mediterranean, based at Aarhus University
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -79,9 +79,9 @@ social:
 
   - name: Twitter
     icon: twitter
-    username: 
-    url: 
-    desc: Follow me on Twitter
+    username: sdam_au
+    url: https://twitter.com/sdam_au
+    desc: Follow us on Twitter
     share: true
 
   - name: LinkedIn
