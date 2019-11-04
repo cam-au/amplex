@@ -6,9 +6,9 @@ author: jaro
 categories: Short-reports
 ---
 
-# Short report: User Acceptance Testing
+<!--- # Short report: User Acceptance Testing
 
-<!--- <span class="smallcaps">Antonio Rivero Ostoic  
+<span class="smallcaps">Antonio Rivero Ostoic  
 18-10-2019</span>  --->
 
 User Acceptance Test or
