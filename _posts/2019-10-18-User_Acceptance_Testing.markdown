@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "Short report: User Acceptance Testing"
+date:   18-10-2019 12:00:00
+author: Antonio
+categories: Short-reports
+---
+
 Short report: User Acceptance Testing
 =====================================
 
-[Antonio Rivero Ostoic\
-18-10-2019]{.smallcaps}
 
 User Acceptance Test or [UAT]{acronym-label="UAT"
 acronym-form="singular+short"} is a type of testing performed by the
