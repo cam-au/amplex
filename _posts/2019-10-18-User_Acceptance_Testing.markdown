@@ -22,10 +22,7 @@ in developing, testing, and releasing a new or updated
 
 ## User Acceptance Test for R package release
 
-In the DTAP process (development
-![\\to](https://latex.codecogs.com/png.latex?%5Cto "\\to") test
-![\\to](https://latex.codecogs.com/png.latex?%5Cto "\\to") acceptance
-![\\to](https://latex.codecogs.com/png.latex?%5Cto "\\to") production),
+In the DTAP process (development &#8594; test &#8594; acceptance &#8594; production),
 which is part of a software development process, the release of a new
 version of an <span class="sans-serif">R</span> package is at the final
 step where the deployment needs to meet certain requirements. The
