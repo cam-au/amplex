@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In Search of Good Practices in Digital Research"
+title:  "In search of good practices in digital research"
 date:   2019-11-04 12:00:00
 author: Vojtech
 categories: Digital-pondering
