@@ -3,7 +3,7 @@ layout: post
 title:  "Epigraphic Database Heidelberg using R"
 date:   26-11-2019 12:00:00
 author: jaro
-categories: Short-reports
+categories: [short-reports, epigraphy]
 ---
 
 <!--- # Short report: Epigraphic Database Heidelberg using R
@@ -29,7 +29,7 @@ For inscriptions, the generic search pattern Uniform Resource Identifier
 
     https://edh-www.adw.uni-heidelberg.de/data/api/inscriptions/search?par_1=value&par_2=value&par_n=value
 
-with parameters `par` $1,2,...n$.
+with parameters `par` *1, 2, ... n*.
 
 The response from a query is in a Java Script Object Notation (JSON)
 format such as:
