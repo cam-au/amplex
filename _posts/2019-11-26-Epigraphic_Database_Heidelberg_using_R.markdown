@@ -4,6 +4,7 @@ title:  "Epigraphic Database Heidelberg using R"
 date:   26-11-2019 12:00:00
 author: jaro
 categories: [short-reports, epigraphy]
+tags: [database, epigraphy, R, API]
 ---
 
 <!--- # Short report: Epigraphic Database Heidelberg using R
