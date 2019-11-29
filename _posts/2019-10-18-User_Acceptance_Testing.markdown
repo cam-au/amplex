@@ -3,7 +3,7 @@ layout: post
 title:  "Short report: User Acceptance Testing"
 date:   18-10-2019 12:00:00
 author: jaro
-categories: Short-reports
+categories: [short-reports, software]
 ---
 
 <!--- # Short report: User Acceptance Testing
