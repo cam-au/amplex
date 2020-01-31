@@ -12,7 +12,7 @@ permalink: /social/
 
 This is a public SDAM calendar where you can find our events, public meetings and social activities.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=5sf1q0vh1mfp84e1dd1anq2umurf2idq%40import.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://outlook.office365.com/owa/calendar/4d6a4f5c1e3446b298a267c8629db29d@cas.au.dk/00b372b360264fe5a34e2e3f259964eb13656172636060631458/calendar.html" style="border: 0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
 
 ---
 
