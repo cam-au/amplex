@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laerning to collaborate"
+title:  "Learning to collaborate"
 date:   2019-10-08 12:00:00
 author: Adela
 categories: Digital-pondering
