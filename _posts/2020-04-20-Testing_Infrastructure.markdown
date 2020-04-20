@@ -21,18 +21,19 @@ Before we even knew of covid, we set up the following infrastructure to facilita
 The project infrastructure included : 
 - Business G Suite for collaborative project administration, communication, cowriting of research documentation etc. (1 month) after previously using Vojtech’s G Suite for previous 6 months.
 - sdam-au github organisation containing repos with code related to projects; 
+- SDAM shared group on sciencedata.dk for collaborative online storage that is shareable with non-AU stakeholders yet complies with GDPR and safe data storage and is computationally accessible
 - sdam.au.dk website  (since project start/ 7 months)
 - JIRA for task management (launched shortly after project start/ 6 months, but not used seriously until in February.)
 - Slack channel for quick and ephemeral communication (since project start/ 7 months)
 - Outlook email account for official business with faculty etc. (since project start/ 7 months), 
 
-Team members expressed familiarity with most of these tools or the ability to acquire it independently. Some specific tools, such as GoogleForms or JIRA, were less well-known and we organized instructional sessions whenever the lack of skills became apparent.
+Team members expressed familiarity with most of these tools or the ability to acquire it independently. Some specific tools, such as GoogleForms or JIRA or interactions with sciencedata.dk, were less well-known and different teammembers developed tools and documentation or organized instructional sessions whenever the team needed to upskill.
 
 In addition to the infrastructure, we had also discussed the priorities for offline/remote or asynchronous work being: 
 - Monitoring of project channels to stay in loop and be aware of fires
 - Prioritizing to help others
 - Staying on track with tasks in Jira (mapped against project targets)
-- Documenting own work in shared project spaces so as to keep it FAIR
+- Documenting own work in shared project spaces online so as to keep it as FAIR as possible
 
 While infrastructure kept functioning, covid revealed other deficiencies in our project coordination, which I now want to write down antidotes to:
 
