@@ -20,11 +20,11 @@ For instance, in one of our empirical research projects, we have developed a ser
 
 Within Python, I usually work with my data in a form of pandas DataFrame object, which is officially defined as a "two-dimensional size-mutable, potentially heterogeneous tabular data structure with labeled axes (rows and columns). " (see the docs [here](https://pandas.pydata.org/pandas-docs/version/0.23.1/generated/pandas.DataFrame.html)). Using this format, we have a table with more than 80,000 rows and 40 columns which might be easily used for any filtering, grouping or stasticial analysis.
 
-To use this dataset in more than one Jupyter notebook and by other users later on, it has to be exported into a file.  I usually export such data into `.json` files, since they are easily readible by other programming languages, like R. In the example case of Roman inscriptions such a data file has ca 150 MB, but in other projects we do (like [AGT]( https://github.com/sdam-au/AGT_ETL)) it might have even more than 1 GB. 
+To use this dataset in more than one Jupyter notebook and by other users as well, it has to be exported into a file.  I usually export such data into `.json` files, since they are easily readible by other programming languages, like R. 
 
-Since I work on cloud, it does not make too much sense for me to download these files into my machine, have them saved somewhere locally and then to think how to share such files with my collegues. Instead of that, I send them instatly into a team shared folder on sciencedata.dk, where anyone from our team can find it and reuse it following her or his needs. Thus, the data just go from one server (Google servers running Colaboratory) to another (sciencedata.dk), without even touching my personal computer.
+In the example case of Roman inscriptions such a data file has ca 150 MB, but in other projects we do (like [AGT]( https://github.com/sdam-au/AGT_ETL)) it might have even more than 1 GB.  Since I work on cloud, it does not make too much sense for me to download these files into my machine, have them saved somewhere locally and then to think how to share such files with my collegues. Instead of that, I send them instatly into a team shared folder on sciencedata.dk, where anyone from our team can find it and reuse it following her or his needs. Thus, the data just go from one server (Google servers running Colab) to another (sciencedata.dk), without even touching my personal computer.
 
-Generally speaking, sddk package is nothing more than a series of functions helping us to make this process as much easy as possible, using just one easily memorable piece of code to send the data there (`sddk.write_file()` function) and an analogical code to read them back (`sddk.read_file()` function). It derserves to be describe in more detail.
+Generally speaking, sddk package is nothing more than a series of functions helping us to make this process as much easy as possible, using just one easily memorable piece of code to send the data there (`sddk.write_file()` function) and an analogical code to read them back (`sddk.read_file()` function). It deserves to be describe in more detail.
 
 ## Sddk package usage demonstration
 
@@ -58,9 +58,11 @@ The package enables you export some other types of Python objects into a couple 
 * in `sddk.write_file()` you have to take care for the filename extension,
 * in `sddk.read_file()` you have to always specify the python internal object you want to produce ("df", "str", "list", and "dict" are currently supported python objects).
 
+For more examples, see the [documentation](https://github.com/sdam-au/sddk_py) or watch a [video demonstration](https://www.youtube.com/watch?v=Bfsj4uN5DMM&t=31s).
+
 ## Sciencedata.dk and R
 
-As I have already mentioned, next to Python, our project is also using R. While so far do not have a full-fledged R package, we already have a `request()` function for reading files from sciencedata and writing them back there. (see its documentation [here](https://mplex.github.io/cedhar/Sciencedata_dk.html#method-put)) In combination with some other commands, the request function might be used to read a `.json` (exported from pandas dataframe) into R tidiverse **tibble** object and exported back to sciencedata as a json interpretable by Python as pandas dataframe (see the [R example code](https://github.com/sdam-au/R_code/blob/master/EDH_to_tibble.R)). The circle is complete.
+As I have already mentioned, next to Python, our project is also using R. While we so far do not have a full-fledged R package, we already have a `request()` function for reading files from sciencedata and writing them back there. (see its documentation [here](https://mplex.github.io/cedhar/Sciencedata_dk.html#method-put)). In combination with some other commands, the request function might be used to read a `.json` (exported from pandas dataframe) into R tidiverse **tibble** object and to export such an object back to sciencedata as a json file interpretable by Python as pandas dataframe (see the [R example code](https://github.com/sdam-au/R_code/blob/master/EDH_to_tibble.R)). The circle is complete.
 
 
 
