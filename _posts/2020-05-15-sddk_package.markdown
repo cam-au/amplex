@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "sddk python package"
-date:   2019-05-15 12:00:00
+date:   2020-05-15 15:00:00
 author: Vojtech
 categories: Digital-pondering
 ---
